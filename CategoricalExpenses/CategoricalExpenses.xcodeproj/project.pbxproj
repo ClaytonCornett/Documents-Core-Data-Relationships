@@ -17,9 +17,9 @@
 		58A73BB01FB55081001EF4DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A73BAF1FB55081001EF4DF /* Assets.xcassets */; };
 		58A73BB31FB55081001EF4DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A73BB11FB55081001EF4DF /* LaunchScreen.storyboard */; };
 		58A73BBE1FB550A2001EF4DF /* NewCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A73BBA1FB550A2001EF4DF /* NewCategoryViewController.swift */; };
-		58A73BBF1FB550A2001EF4DF /* NewExpenseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A73BBB1FB550A2001EF4DF /* NewExpenseViewController.swift */; };
+		58A73BBF1FB550A2001EF4DF /* NewDocumentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A73BBB1FB550A2001EF4DF /* NewDocumentViewController.swift */; };
 		58A73BC01FB550A2001EF4DF /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A73BBC1FB550A2001EF4DF /* CategoriesViewController.swift */; };
-		58A73BC11FB550A2001EF4DF /* ExpensesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A73BBD1FB550A2001EF4DF /* ExpensesViewController.swift */; };
+		58A73BC11FB550A2001EF4DF /* DocumentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A73BBD1FB550A2001EF4DF /* DocumentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,9 +35,9 @@
 		58A73BB21FB55081001EF4DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58A73BB41FB55081001EF4DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58A73BBA1FB550A2001EF4DF /* NewCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewCategoryViewController.swift; sourceTree = "<group>"; };
-		58A73BBB1FB550A2001EF4DF /* NewExpenseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewExpenseViewController.swift; sourceTree = "<group>"; };
+		58A73BBB1FB550A2001EF4DF /* NewDocumentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewDocumentViewController.swift; sourceTree = "<group>"; };
 		58A73BBC1FB550A2001EF4DF /* CategoriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
-		58A73BBD1FB550A2001EF4DF /* ExpensesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpensesViewController.swift; sourceTree = "<group>"; };
+		58A73BBD1FB550A2001EF4DF /* DocumentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DocumentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,9 +75,9 @@
 				1C126573233E8AAF00409A16 /* Category+CoreDataClass.swift */,
 				1C126574233E8AAF00409A16 /* Category+CoreDataProperties.swift */,
 				58A73BBC1FB550A2001EF4DF /* CategoriesViewController.swift */,
-				58A73BBD1FB550A2001EF4DF /* ExpensesViewController.swift */,
+				58A73BBD1FB550A2001EF4DF /* DocumentViewController.swift */,
 				58A73BBA1FB550A2001EF4DF /* NewCategoryViewController.swift */,
-				58A73BBB1FB550A2001EF4DF /* NewExpenseViewController.swift */,
+				58A73BBB1FB550A2001EF4DF /* NewDocumentViewController.swift */,
 				58A73BA91FB55081001EF4DF /* Main.storyboard */,
 				58A73BAC1FB55081001EF4DF /* CategoricalExpenses.xcdatamodeld */,
 				58A73BC21FB550AF001EF4DF /* Support Files */,
@@ -168,13 +168,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				58A73BC11FB550A2001EF4DF /* ExpensesViewController.swift in Sources */,
+				58A73BC11FB550A2001EF4DF /* DocumentViewController.swift in Sources */,
 				58A73BBE1FB550A2001EF4DF /* NewCategoryViewController.swift in Sources */,
 				1C126576233E8AAF00409A16 /* Document+CoreDataProperties.swift in Sources */,
 				58A73BC01FB550A2001EF4DF /* CategoriesViewController.swift in Sources */,
 				58A73BAE1FB55081001EF4DF /* CategoricalExpenses.xcdatamodeld in Sources */,
 				1C126575233E8AAF00409A16 /* Document+CoreDataClass.swift in Sources */,
-				58A73BBF1FB550A2001EF4DF /* NewExpenseViewController.swift in Sources */,
+				58A73BBF1FB550A2001EF4DF /* NewDocumentViewController.swift in Sources */,
 				1C126578233E8AAF00409A16 /* Category+CoreDataProperties.swift in Sources */,
 				1C126577233E8AAF00409A16 /* Category+CoreDataClass.swift in Sources */,
 				58A73BA61FB55081001EF4DF /* AppDelegate.swift in Sources */,

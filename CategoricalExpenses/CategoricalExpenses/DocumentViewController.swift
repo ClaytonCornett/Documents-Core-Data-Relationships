@@ -1,10 +1,4 @@
-//
-//  ExpensesViewController.swift
-//  Expenses
-//
-//  Created by Shawn Moore on 11/6/17.
-//  Copyright © 2017 Shawn Moore. All rights reserved.
-//
+
 
 import UIKit
 

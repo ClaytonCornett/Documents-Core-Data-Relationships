@@ -1,11 +1,4 @@
-//
-//  Category+CoreDataClass.swift
-//  CategoricalExpenses
-//
-//  Created by Clayton Cornett on 9/27/19.
-//  Copyright © 2019 Shawn Moore. All rights reserved.
-//
-//
+
 
 import UIKit
 import CoreData

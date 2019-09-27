@@ -1,10 +1,4 @@
-//
-//  NewCategoryViewController.swift
-//  ExpensesCoreData
-//
-//  Created by Shawn Moore on 11/9/17.
-//  Copyright © 2017 Shawn Moore. All rights reserved.
-//
+
 
 import UIKit
 
